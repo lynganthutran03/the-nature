@@ -38,7 +38,6 @@ html {
     margin-top: 15px;
     border: none;
     text-align: center;
-    -webkit-appearance: none;
 }
 
 .btn:hover {
@@ -89,10 +88,6 @@ html {
 }
 
 /* Main */
-
-#main {
-
-}
 
 #header {
     height: 48px;
@@ -200,7 +195,7 @@ html {
     position: relative;
     margin-top: 48px;
     padding-top: 50%;
-    background: url('/assets/img/slider/slider-1.jpg') top center / cover no-repeat;
+    background: url('../img/slider/slider-1.jpg') top center / cover no-repeat;
 }
 
 #slider .text-content {
